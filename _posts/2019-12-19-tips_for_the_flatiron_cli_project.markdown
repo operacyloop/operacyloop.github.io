@@ -28,9 +28,11 @@ That means you'll have to reach out to instructor or fellow student and ask for 
 
 ## There are essentially three sections that make up this project: 
 
+
 #### The first section is the CLI, the "Command Line Interface". 
 
 This is what interfaces with humans and also where the logic of the program is. It asks the user something, it figures out what to do from the input, including calling upon other programs. 
+
 
 #### The next section is the API, or perhaps the Scrapper section. 
 
@@ -44,6 +46,7 @@ The recommendation from the instructors was to go with the API (rather than a sc
 1. We're likely to be using APIs for the forseable future in our careers.
 2. Scrappers will likely increase the coding time on the project.
 3. The point of the project is not to be the best scrapperer (or APIerer) in the world, but rather to make sure we have a firm understanding of a number of concepts, especially object oriented development.
+
 
 #### The third section is the class that produces objects. 
 
@@ -63,9 +66,7 @@ Each of these should probably have it's own file. Beyond this, there are a numbe
 
 5. Make sure you do all the other things the project requires, including a README file, a video walk-through, a blog entry etc. Not only is all that stuff required, but it's good for you. 
 
-6. Don't be afraid to re-learn concepts and re-look at lessons you though your learned before. 
-
-This is a lifelong process, and just cause you looked at it once doesn't it mean it really sunk in. For me, I got an $11 Udemy course as a supplement for easy look up of video lessons on various concepts.
+6. Don't be afraid to re-learn concepts and re-look at lessons you though your learned before. This is a lifelong process, and just cause you looked at it once doesn't it mean it really sunk in. For me, I got an $11 Udemy course as a supplement for easy look up of video lessons on various concepts.
 
 7. Don't beat yourself up. These are difficult-to-get concepts. Once you get them, they might seem obvious, but that's only because you spent the time studing and getting into them.
 
