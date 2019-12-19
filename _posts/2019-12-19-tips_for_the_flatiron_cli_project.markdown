@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Tips for the Flatiron CLI project!"
-date:       2019-12-19 18:13:22 +0000
+date:       2019-12-19 13:13:22 -0500
 permalink:  tips_for_the_flatiron_cli_project
 ---
 
@@ -57,9 +57,7 @@ Each of these should probably have it's own file. Beyond this, there are a numbe
 
 2. This is the first self-directed project assigned and you should bring your best project management skills to the table. You also happen to be the front-line coder on this, so just make sure you're ready to work too.
 
-3. Don't be afraid to reach out to people who can help. This could be your instructor, other students in your cohort, or other former and current students at Flatiron. 
-
- At times it may feel like you're bugging people, but pretty much everyone was where you were at one point, so don't be afraid to reach out. The worst they can tell you is "no". I mean, I suppose the WORST they can tell you is that you are a horrible student and you will never amount to anything in life, but if they do that don't forget that sticks and stones can break your bones, but names will never hurt you.
+3. Don't be afraid to reach out to people who can help. This could be your instructor, other students in your cohort, or other former and current students at Flatiron. At times it may feel like you're bugging people, but pretty much everyone was where you were at one point, so don't be afraid to reach out. The worst they can tell you is "no". I mean, I suppose the WORST they can tell you is that you are a horrible student and you will never amount to anything in life, but if they do that don't forget that sticks and stones can break your bones, but names will never hurt you.
 
 4. Get a "Minimal Viable Product" done first. Make sure you get SOMEthing done, then you can add bells and whistles later. 
 
@@ -75,6 +73,8 @@ This is a lifelong process, and just cause you looked at it once doesn't it mean
 
 9. Upload to Github as often as you can. Set a timer if you need to. 
 
-10. Map out your logic if needed. 
+10. Map out your logic (usually in the CLI file) if needed. If you see that you not understanding what things do when, you may need to take pen to paper and write out a map of what happens when. This should help you figure out logical problems and areas you can improve. 
+
+#### Remember to savor the process during this process. If you determine that you don't know a concept, that's okay! Learn as you go: that's what it's all about!
 
 
