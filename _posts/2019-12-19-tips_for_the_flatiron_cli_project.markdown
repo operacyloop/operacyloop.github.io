@@ -76,6 +76,6 @@ Each of these should probably have it's own file. Beyond this, there are a numbe
 
 10. Map out your logic (usually in the CLI file) if needed. If you see that you not understanding what things do when, you may need to take pen to paper and write out a map of what happens when. This should help you figure out logical problems and areas you can improve. 
 
-#### Remember to savor the process during this process. If you determine that you don't know a concept, that's okay! Learn as you go: that's what it's all about!
+## Remember to savor the process during this process. If you determine that you don't know a concept, that's okay! Learn as you go: that's what it's all about!
 
 
