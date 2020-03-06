@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Acronyms for the Win: Building a “CRUD" Sinatra Application at Flatiron"
-date:       2020-03-06 19:49:56 +0000
+date:       2020-03-06 14:49:57 -0500
 permalink:  acronyms_for_the_win_building_a_crud_sinatra_application_at_flatiron
 ---
 
