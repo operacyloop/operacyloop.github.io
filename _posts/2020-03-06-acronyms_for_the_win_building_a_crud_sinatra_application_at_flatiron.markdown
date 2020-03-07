@@ -30,8 +30,9 @@ For my project I had users which were essentially HR professionals, and I had po
 
 **CRUD: Create, Read, Update, Delete **
 
-In the posts someone was allowed to create their own post they were allowed to edit their post, they were allowed to see the other post from the other HR professionals, and they were also able to delete their own post. They were not allowed to change anybody else's posts. This is all called crud functionality. CRUD is an acronym for the different ways we deal with data. We create, read, update and delete. So my project people were allowed to create a name some notes about an individual plus a rating on tact. Again we're gonna have lots more things to write on each individual in later project. They could read their own and other peoples ratings, as well as edit them a.k.a. update. 
-And they could also delete their ratings as well.
+In many projects it's important there is CRUD. CRUD is an acronym for Create, Read, Update, Delete -- the different ways we deal with data. A blog or an online journal would be a good example. A user is allowed to create their own post, they are allowed to edit their post, they are allowed to read their posts (and perhaps see the other posts), and they are also able to delete their own post. They were not allowed to change anybody else's posts. This is all called CRUD functionality (But why CRUD? Why couldn't it have been CURD? I think CURD is better than CRUD. Just sayin'). 
+
+We create, read, update and delete. So in my project people were allowed to create a name of an individual to be rated, leave some notes about that individual, plus a rate that person on one characteristic: tact. Again, we're gonna have lots more characteristics to wrate on each person in a later project. 
 
 **MVP: Minimal Viable Product**
 
