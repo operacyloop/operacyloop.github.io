@@ -7,19 +7,19 @@ permalink:  acronyms_for_the_win_building_a_crud_sinatra_application_at_flatiron
 
 
 
-Even before I entered a coding boot camp, I had this idea for creating software that would match teams with people and people with teams. It's been on my mind for a long time, in fact the entire reason I joined the coding Boot Camp it's so that I would have the skills to build such a project.
+Even before I entered a coding boot camp, I had this idea for creating software that would match teams with people and people with teams. It's been on my mind for a long time. In fact, the entire reason I joined the coding boot camp it's so that I could obtain the skills to build such a project.
 
-So when I found out about the second portfolio project and that it would require relationships, it seemed like the type of project that I could use as maybe even a framework for my overall coding goal. 
+So when I found out that the second portfolio project at my boot camp was one that might eventually provide the framework for my larger more complex project, I became very excited. 
 
-**Objects **
+One of the cool ideas in modern computing is the idea of Objects. I think about Objects at the way to represent real life things inside the brains of a computer. 
 
+There are so many different types of relationships when it comes to thinking about how teams integrate with people and people integrate with teams, it's almost daunting in terms of what can be done and how it should be done. In this case, in my second portfolio project, I decided to keep things simple. Instead of a many to many relationship, I decided to focus on a one to many relationship. This is something that can be scaled later. In this case, I was looking at one user, perhaps an HR professional (someone in human resources) or a third-party recruiter. And for "many" are the number of people that person was rating. 
 
-One of the cool ideas in computing is the idea of Objects. I think about Objects at the way to represent real life things inside the brains of a computer. 
+In my aspirational big project (outside of coding school) there would be much more complexity, but because the project is designed to help us understand the basics. So I ended up doing a much more simplified version. All we did was have HR people evaluate different people with one characteristic they were evaluating. In the bigger project there would be many more characteristics. In this portfolio project, all we looked at was "tact".
 
-There are so many different types of relationships when it comes to thinking about how teams integrate with people and people integrate with teams, it's almost daunting in terms of what can be done and how it should be done. In this case, in my second portfolio project, I decided to keep things simple. Instead of the many to many relationship, I decided to focus on a one to many relationship. This is something that can be scaled later. In this case I was looking at one user, that person being an HR person someone in human resources. And many were the number of people that person was rating. 
+However, in a more complex program we would look at a number of individuals and a number of different qualities in each individual and we would have a number of different people evaluating each of those qualities of each other individuals.
 
-In the big project (outside of coding school) I have much more complexity but because the project is designed to help us understand the basics, I did a much simplified version. All we did was have HR people evaluate different people with one characteristic they were evaluating. So in this case it was tact. However, 
-in a more complex program we would look at a number of individuals and a number of different qualities in each individual and we would have a number of different people reading each of those qualities of each other individual.
+So there were a couple of acronyms to know and think about in this project. Here they are:
 
 **MVC: Models-Views-Controllers**
 
